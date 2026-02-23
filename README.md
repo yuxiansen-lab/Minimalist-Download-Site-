@@ -9,7 +9,7 @@ notice.txt是公告**
 ！！！文件都存储在file里，可以再后台设置加密文件夹或直接在文件夹里创立一个.password文件，内容为自己的密码即可。
 直接全拷贝到本地就安装完了。
 可能还会有些小bug
-前端展示：[点我](https://dl.yxsen.top/download.php?mode=inline&file=qianduan.png)
-后端展示：[点我](https://dl.yxsen.top/download.php?mode=inline&file=houduan.png)
+前端展示：![1](https://dl.yxsen.top/download.php?mode=inline&file=qianduan.png)
+后端展示：![2](https://dl.yxsen.top/download.php?mode=inline&file=houduan.png)
 
 实在是有点简陋了，求谅解！！（新手第一个自创项目）
